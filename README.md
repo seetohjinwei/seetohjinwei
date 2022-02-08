@@ -2,4 +2,4 @@
 
 I'm Jin Wei, currently studying Computer Science at NUS.
 
-I like challenges :)
+Sillier stuff found on my [Gitlab](https://gitlab.com/seetohjinwei).
