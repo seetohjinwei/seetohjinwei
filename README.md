@@ -39,6 +39,8 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
+<!-- Icons from https://devicon.dev -->
+
 ## Contact Me
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/seetohjinwei/)!
