@@ -41,6 +41,14 @@
 
 <!-- Icons from https://devicon.dev -->
 
+<!-- Statistics from https://github.com/anuraghazra/github-readme-stats -->
+<!-- Compact Top Langs & Count of 8 & github_dark theme -->
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="#" title="GitHub Statistics"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seetohjinwei&layout=compact&langs_count=8&theme=github_dark" /></a>
+</p>
+<!-- markdownlint-enable MD033 -->
+
 ## Contact Me
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/seetohjinwei/)!
