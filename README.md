@@ -53,4 +53,6 @@
 
 ## Contact Me
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/seetohjinwei/)!
+Learn more about me on my site, [jinwei.dev](https://jinwei.dev/)!
+
+Connect with me on LinkedIn [@seetohjinwei](https://www.linkedin.com/in/seetohjinwei/)!
