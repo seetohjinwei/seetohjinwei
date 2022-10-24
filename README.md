@@ -53,6 +53,7 @@
 
 ## Contact Me
 
+<!-- Note: GitHub's markdown bans opening links in new tab to prevent XSS attacks. So, can't use the target="_blank" trick :/ -->
 Learn more about me on my site, [jinwei.dev](https://jinwei.dev/)!
 
 Connect with me on LinkedIn [@seetohjinwei](https://www.linkedin.com/in/seetohjinwei/)!
